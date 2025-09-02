@@ -1,0 +1,6 @@
+@MiApiHolaMundo_HostAddress = http://localhost:5201
+
+GET {{MiApiHolaMundo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

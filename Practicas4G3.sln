@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "apinet8", "apinet8", "{E87A9F21-04F6-98C3-832B-79187290472B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiApiHolaMundo", "apinet8\MiApiHolaMundo\MiApiHolaMundo.csproj", "{A247B6D5-C661-3911-B710-D9D40B7DF26C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A247B6D5-C661-3911-B710-D9D40B7DF26C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A247B6D5-C661-3911-B710-D9D40B7DF26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A247B6D5-C661-3911-B710-D9D40B7DF26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A247B6D5-C661-3911-B710-D9D40B7DF26C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A247B6D5-C661-3911-B710-D9D40B7DF26C} = {E87A9F21-04F6-98C3-832B-79187290472B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85911CF9-A01C-42E0-A4F5-E4E92F0B154C}
+	EndGlobalSection
+EndGlobal
